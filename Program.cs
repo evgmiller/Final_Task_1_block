@@ -23,6 +23,6 @@ void PrintArray(string [] inArray)
 
 string [] array= {"1234", "1567", "-2", "computer science"};
 string [] NewArray= GetArray(array);
-PrintArray(array);
+// PrintArray(array);
 Console.WriteLine();
 PrintArray(NewArray);
